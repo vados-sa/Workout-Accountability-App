@@ -1,0 +1,79 @@
+/* Container for centering everything */
+.container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	min-height: 100vh;
+	background-color: #FFFFFF;
+	text-align: center;
+  }
+  
+  /* MotivateMates Logo */
+  .logo {
+	font-family: 'Inter', sans-serif;  /* Matching Figma */
+  	font-weight: 600;                  /* Semi Bold */
+  	font-size: 32px;                   /* As per Figma */
+  	line-height: 32px;                 /* 100% Line height */
+  	color: #C8E2FF;                  /* Light Blue */
+  	margin-bottom: 20px;
+  }
+  
+  /* Stay Accountable Heading */
+  .heading {
+	font-family: 'Joan', serif;        /* Matching Figma */
+	font-weight: 400;                  /* Regular */
+	font-size: 96px;                   /* As per Figma */
+	line-height: 105.6px;              /* 110% of 96px */
+	color: #1E3A8A;                    /* Dark Blue */
+	margin-bottom: 35px;
+  }
+  
+  /* Button Group */
+.buttonGroup {
+	display: flex;
+	gap: 12px; /* Matches the gap in Figma */
+  }
+  
+  /* Shared Button Styles */
+  .button {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	padding: 8px;                   /* Padding from Figma */
+	border-radius: 8px;             /* Corner radius */
+	font-family: 'Inter', sans-serif;
+	font-size: 14px;                /* Default size for small buttons */
+	text-decoration: none;
+	cursor: pointer;
+	transition: background-color 0.3s, color 0.3s, border 0.3s;
+	min-width: 83px;                /* Matching Figma width */
+	height: 32px;                   /* Matching Figma height */
+	box-sizing: border-box;
+  }
+  
+  /* Sign In Button (Outlined Style) */
+  .buttonOutline {
+	background-color: #F5F5F5;      /* Light Gray Background */
+	color: #1E3A8A;                 /* Text Color */
+	border: 1px solid #1E3A8A;      /* Stroke from Figma */
+  }
+  
+  .buttonOutline:hover {
+	background-color: #1E3A8A;      /* Hover: Match Register Button */
+	color: white;
+	border-color: #1E3A8A;
+  }
+  
+  /* Register Button (Filled Style) */
+  .buttonFilled {
+	background-color: #1E3A8A;      /* Solid Fill */
+	color: white;                   /* White Text */
+	border: 1px solid #1E3A8A;      /* Stroke from Figma */
+  }
+  
+  .buttonFilled:hover {
+	background-color: #142F6B;      /* Slightly darker for hover effect */
+	border-color: #142F6B;
+  }
+  
