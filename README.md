@@ -1,5 +1,5 @@
 # 🏋️ MotivateMates: Workout Tracking App
-The idea for this app came from a friend who, while training for Hyrox, wanted an easy way to stay accountable with his race partner. Since I’m also preparing for Hyrox, I saw this as a great learning opportunity and offered to build the app myself.
+The idea for this app came from a friend who, while training for [Hyrox](https://www.youtube.com/watch?v=HTHAs8F9Cek), wanted an easy way to stay accountable with his race partner. Since I’m also preparing for Hyrox, I saw this as a great learning opportunity and offered to build the app myself.
 
 While there are plenty of workout tracking apps out there, this project is all about learning valuable development skills and creating something fit for our needs. Plus, by the end of it, we’ll have our own little app that’s simple, effective, and built from scratch!
 
