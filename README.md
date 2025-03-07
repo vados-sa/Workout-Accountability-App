@@ -1,3 +1,5 @@
+[Currently on pause since I'm preparing for the exams at 42 and starting the C++ projects.]
+
 # 🏋️ MotivateMates: Workout Tracking App
 The idea for this app came from a friend who, while training for [Hyrox](https://www.youtube.com/watch?v=HTHAs8F9Cek), wanted an easy way to stay accountable with his race partner. Since I’m also preparing for Hyrox, I saw this as a great learning opportunity and offered to build the app myself.
 
